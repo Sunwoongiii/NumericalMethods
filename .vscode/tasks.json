@@ -92,7 +92,7 @@
   "tasks": [
     {
       "label": "save and compile for C",
-      "command": "gcc",
+      "command": "clang",
       "args": [
         "${file}",
         "-o",
